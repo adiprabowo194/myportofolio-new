@@ -29,7 +29,7 @@ function Header() {
               isMenuOpen ? "text-white" : "text-gray-800"
             } md:text-gray-800`}
           >
-            Adi'P
+            Adi'Prab
           </a>
           {/* Desktop Navigation */}
           <nav className="hidden md:flex justify-end w-2/4 text-lg font-medium">
