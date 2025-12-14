@@ -1,13 +1,9 @@
 import { FaDotCircle, FaLinkedinIn } from "react-icons/fa";
 import { FaArrowDownLong } from "react-icons/fa6";
-import {
-  IoChatboxEllipsesSharp,
-  IoLogoTwitter,
-  IoLogoWhatsapp,
-} from "react-icons/io5";
+import { IoChatboxEllipsesSharp, IoLogoWhatsapp } from "react-icons/io5";
 import { AiFillGithub } from "react-icons/ai";
 
-import { motion, scale } from "motion/react";
+import { motion } from "motion/react";
 
 function Hero() {
   return (

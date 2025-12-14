@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { FaArrowRight } from "react-icons/fa";
+
 function Work() {
   return (
     <motion.div
@@ -69,7 +69,6 @@ function Work() {
           </div>
         </div>
       </div>
-     
     </motion.div>
   );
 }

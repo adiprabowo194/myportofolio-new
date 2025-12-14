@@ -1,6 +1,6 @@
-import { FaArrowRight, FaDownload } from "react-icons/fa";
+import { FaDownload } from "react-icons/fa";
 import { RevealOnScroll } from "../RevealOnScroll";
-import { FaArrowDownLong } from "react-icons/fa6";
+
 function About() {
   const frontendSkills = [
     "React",
